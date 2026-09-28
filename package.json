@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/renderglob",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Render identifiers and glob tokens for idempotent workflows.",
+  "bin": {
+    "renderglob": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/renderglob.git"
+  },
+  "homepage": "https://theworker02.github.io/renderglob/",
+  "keywords": [
+    "render",
+    "glob",
+    "id",
+    "cli",
+    "toolkit"
+  ]
+}
